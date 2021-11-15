@@ -1,4 +1,4 @@
-API Rest de Listagem, criação, delete e update de usuários, utilizando o typescript no Node Js
+API Rest de Listagem, Criação, Delete e Update de usuários, utilizando o typescript no Node Js
 
 - Node JS
 - MySql
