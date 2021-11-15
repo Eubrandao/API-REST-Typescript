@@ -2,5 +2,5 @@ API Rest de Listagem, Criação, Delete e Update de usuários, utilizando o type
 
 - Node JS
 - MySql
-- Docker(Colocamos o MySql dentro do container Docker)
+- Docker(Colocamos o MySql dentro de um container Docker)
 
